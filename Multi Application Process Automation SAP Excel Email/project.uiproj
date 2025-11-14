@@ -1,0 +1,6 @@
+{
+  "Name": "Multi Application Process Automation SAP Excel Email",
+  "ProjectType": "Process",
+  "Description": "Integrate multiple systems in one workflow.",
+  "MainFile": "Main.xaml"
+}
